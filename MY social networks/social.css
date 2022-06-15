@@ -86,3 +86,21 @@ img{
 .souligner{
     text-decoration: underline;
 }
+
+
+
+.contour{
+    border: 1px solid black;
+}
+
+a.nounderline:link 
+{ 
+ text-decoration:none; 
+} 
+
+
+.a1{
+  text-decoration: none;
+  color: black; /*par exemple*/
+ }
+
